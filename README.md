@@ -59,3 +59,13 @@ Sentinel is designed to integrate with real-world telecom infrastructure. Citize
    ```bash
    git clone [https://github.com/titax03/proj-Sentinel.git](https://github.com/titax03/proj-Sentinel.git)
    cd proj-Sentinel
+
+2. **Install dependencies:**
+  ```bash
+   pip install -r requirements.txt
+
+
+3.**Run the Simulation:**
+   ```bash
+   python main.py
+
