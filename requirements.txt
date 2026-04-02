@@ -1,0 +1,19 @@
+# Web App & Dashboard
+streamlit==1.32.0
+
+# Data Handling
+pandas==2.2.1
+
+# Connecting Python to your local Ollama model
+ollama==0.1.7
+
+# Mapping & Visualization
+folium==0.15.1
+streamlit-folium==0.19.0
+
+# Geocoding (Turning text like "Noida" into map coordinates)
+geopy==2.4.1
+
+# Text-to-Speech (For the voice alerts)
+gtts==2.5.1
+
