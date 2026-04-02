@@ -57,5 +57,5 @@ Sentinel is designed to integrate with real-world telecom infrastructure. Citize
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/project-sentinel.git](https://github.com/yourusername/project-sentinel.git)
-   cd project-sentinel
+   git clone [https://github.com/titax03/proj-Sentinel.git](https://github.com/titax03/proj-Sentinel.git)
+   cd proj-Sentinel
