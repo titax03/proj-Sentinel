@@ -61,11 +61,9 @@ Sentinel is designed to integrate with real-world telecom infrastructure. Citize
    cd proj-Sentinel
 
 2. **Install dependencies:**
-  ```bash
+   ```bash
    pip install -r requirements.txt
-
 
 3.**Run the Simulation:**
    ```bash
    python main.py
-
