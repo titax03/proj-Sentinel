@@ -69,17 +69,16 @@ Open your terminal and pull the Llama 3 model to your machine:
     
     ollama run llama3.2
 
-## 💻 Local Setup & Installation
 
-3. **Clone the repository:**
-   ```bash
+### 3. **Clone the repository:**
+    ```bash
    git clone [https://github.com/titax03/proj-Sentinel.git](https://github.com/titax03/proj-Sentinel.git)
    cd proj-Sentinel
 
-4. **Install dependencies:**
-   ```bash
+### 4. **Install dependencies:**
+    ```bash
    pip install -r requirements.txt
 
-5.**Run the Simulation:**
+### 5.**Run the Simulation:**
    ```bash
    streamlit run app.py
